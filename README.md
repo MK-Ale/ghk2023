@@ -20,7 +20,8 @@ Different types of ion channels open under different conditions (voltage, temper
 
 The GHK equation is as follows:
 
-<img src="https://latex.codecogs.com/svg.image?E_R&space;=&space;\frac{RT}{F}ln\(\frac{P_{Na}[Na]_{out} + P_{K}[K]_{out} + P_{Cl}[Cl]_{in}}{P_{Na}[Na]_{in} + P_{K}[K]_{in} + P_{Cl}[Cl]_{out}}\)">
+<img align="left" width="200" src="https://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
+
 
 where [X] refers to the concentration of ion X either inside or outside the neuron. Notice that the concentrations for chloride are flipped, as chloride has a negative valence.
 
